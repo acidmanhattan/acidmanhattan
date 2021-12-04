@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @acidmanhattan
 - 👀 I’m interested in baking code and reading smart contracts
-- 🌱 I’m currently learning to not get rekt
-- 💞️ I’m looking to collaborate on peppermint island
-- 📫 Reach me me here >> acidmanhattan@pm.me 
+- 🔗 Yat Links → https://y.at/🙃🗽✌️👽
+- 📫 Reach me me here → acidmanhattan@gmail.com 
 
 <!---
 acidmanhattan/acidmanhattan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
