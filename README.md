@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acidmanhattan
-- 👀 I’m interested in baking code and reading smart contracts
+- 👀 I’m interested in baking code and smart contracts
 - 🔗 Yat Links → https://y.at/🙃🗽✌️👽
 - 📫 Reach me me here → acidmanhattan@gmail.com 
 
