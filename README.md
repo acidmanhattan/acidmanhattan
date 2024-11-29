@@ -4,7 +4,7 @@
 
 ## Projects
 
-- **[Visual Prompts Collection](https://acidmanhattan.xyz)**  
+- **[VISUALIZED PROMPTZ Collection](https://acidmanhattan.xyz)**  
    NFTs that push boundaries of digital and interactive art. 
    > “Imagination as a language for the metaverse.”
 
