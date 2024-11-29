@@ -14,7 +14,7 @@
 ---
 
 ## Contact
-- **Wallet address** acidmanhattan.eth (0x47Ea9F2d81Aff9F539348a476F45EdbF5F2122B2) 
+- **Wallet address** acidmanhattan.eth `0x47Ea9F2d81Aff9F539348a476F45EdbF5F2122B2`
 - **E-mail**: info@acidmanhattan.xyz  
 - **Website**: [https://acidmanhattan.xyz](https://acidmanhattan.xyz)  
 
